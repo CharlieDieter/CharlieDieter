@@ -1,2 +1,1 @@
-
-[![HitCount](http://hits.dwyl.com/CharlieDieter/CharlieDieter.svg)](http://hits.dwyl.com/CharlieDieter/CharlieDieter)
+<img src="http://hits.dwyl.com/CharlieDieter/CharlieDieter.svg" height="1px" width="1px"/>
